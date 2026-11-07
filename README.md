@@ -1,6 +1,7 @@
 # ThermoFinance
 
 Estudiante: Conde Gutierrez Rafael Blas
+
 Aplicación web académica para el desafío **“Aplicación del Método de Gradientes Conjugados Precondicionado en problemas financieros”** de COM-254 Métodos Numéricos.
 
 ## Estructura
