@@ -1,5 +1,6 @@
 # ThermoFinance
 
+Estudiante: Conde Gutierrez Rafael Blas
 Aplicación web académica para el desafío **“Aplicación del Método de Gradientes Conjugados Precondicionado en problemas financieros”** de COM-254 Métodos Numéricos.
 
 ## Estructura
@@ -43,10 +44,3 @@ Para el sistema precondicionado se calcula el número de condición de `M^(-1/2)
 
 Los escenarios contienen datos sintéticos de demostración. No son datos reales de una empresa ni recomendaciones de inversión.
 
-## Personalización pendiente
-
-En el selector de mención se puede indicar IA y Ciencia de Datos, Ingeniería de Sistemas o Desarrollo de Sistemas. El caso implementado es asignación presupuestaria entre unidades, especialmente relacionado con planificación de recursos. Si la mención seleccionada es IA y Ciencia de Datos, debe adaptarse el caso a una cartera de al menos cuatro activos para cubrir íntegramente ese énfasis específico.
-
-## Publicación
-
-Para GitHub Pages, sube `index.html`, `README.md` y las carpetas `css/` y `js/` a la raíz del repositorio. Luego selecciona **Settings → Pages → Deploy from a branch → main → /(root)**.
